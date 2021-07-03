@@ -5,7 +5,7 @@
 下面是我自己在整理的一些面经，信息均采集于互联网，有的是人工进行的采集，有的是通过爬虫技术进行的采集。每一篇面经都进行了人工审核，我进行标注了是实习，校招，或者是社招，整理的面试题分别放到了每个公司下，希望能够帮助到大家.
 <table>
   <td>
-<img src="https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/blty.jpeg">
+<img src="https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/blty.jpeg" width="50%">
     <td/>
   <td>
     <img src="https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/huhu.png">
