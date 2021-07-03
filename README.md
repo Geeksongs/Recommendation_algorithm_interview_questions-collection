@@ -7,7 +7,7 @@
   <td>
 <img src="https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/blty.jpeg">
     <td/>
-  <td width="30%">
+  <td width="40%">
     <img src="https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/huhu.png">
     </td>
   </table>
