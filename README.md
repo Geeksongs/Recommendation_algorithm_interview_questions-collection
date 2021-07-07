@@ -13,7 +13,7 @@
   </table>
 
 公司的目录如下：
-1. 百度
+1. [百度](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E7%99%BE%E5%BA%A6.md)
 2. 蚂蚁金服
 3. [拼多多](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E6%8B%BC%E5%A4%9A%E5%A4%9A.md)
 4. 美团
