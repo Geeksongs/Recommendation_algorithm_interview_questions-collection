@@ -15,7 +15,7 @@
 公司的目录如下：
 1. 百度
 2. 蚂蚁金服
-3. [拼多多]: https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E6%8B%BC%E5%A4%9A%E5%A4%9A.md
+3. [拼多多]:https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E6%8B%BC%E5%A4%9A%E5%A4%9A.md
 4. 美团
 5. 阿里
 6. 今日头条
