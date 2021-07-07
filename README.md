@@ -24,5 +24,5 @@
 9. [携程](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E6%90%BA%E7%A8%8B.md)
 10. 银联
 11. 快手
-12. 知乎
+12. [知乎](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E7%9F%A5%E4%B9%8E.md)
 
