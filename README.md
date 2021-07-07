@@ -16,7 +16,7 @@
 1. [百度](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E7%99%BE%E5%BA%A6.md)
 2. [蚂蚁金服](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E8%9A%82%E8%9A%81%E9%87%91%E6%9C%8D.md)
 3. [拼多多](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E6%8B%BC%E5%A4%9A%E5%A4%9A.md)
-4. 美团
+4. [美团](https://github.com/Geeksongs/Recommendation_algorithm_interview_questions-collection/blob/main/%E7%BE%8E%E5%9B%A2.md)
 5. 阿里
 6. 今日头条
 7. 网易云音乐
